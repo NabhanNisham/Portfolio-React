@@ -1,38 +1,70 @@
-.App {
-  text-align: center;
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #161A27;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+section {
+  height: 100vh;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+span ,.name {
+  color: #5779E0;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.a-btn {
+  background-color: #5779E0;
+}
+
+.social {
+  color: #5779E0;
+  margin-right: 5rem;
+}
+
+.btnd:hover {
+  background-color: rebeccapurple;
+}
+
+.img {
+  border-radius: 47% 53% 51% 49% / 30% 32% 68% 70% ;
+  margin-right: 2rem;
+}
+
+.head {
+  font-family: 'Bebas Neue', Arial, sans-serif;
+  letter-spacing: 2px;
+  font-weight: bold;
+  font-size: xx-large;
+  color: white;
+
+}
+
+.icon {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 5px; 
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.sk {
+  text-transform: uppercase;
+  font-size: larger;
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.card {
+  width: 40%;
+  box-shadow: 0 4px 8px 0 rebeccapurple;
+  border-radius: 25%;
+}
+
+
+
+.form {
+  display: block;
+  padding: 1em;
+  margin: 10px;
+  width: 500px;
 }
