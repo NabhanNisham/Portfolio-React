@@ -145,8 +145,8 @@ function App() {
       <h1 className="font-bold text-3xl text-sky-600 text-center py-6">Projects</h1>
       <div className='flex items-center justify-between mx-6 my-4'>
       <div class="card px-8 py-8">
-        <div class="card-body">
-          <h5 class="card-title text-center">Sex-Edu & Counseling</h5>
+        <div class="card-body text-white">
+          <h5 class="card-title text-center font-bold">Sex-Edu & Counseling</h5>
           <p class="card-text">Sex edu and counseling applications provide comprehensive guidance on sexual health and wellness. They feature tailored resources to help users build a better understanding of reproductive health, healthy relationships, and sexual identity. Some applications provide online forums for users to ask questions and discuss their experiences in an anonymous, judgement-free environment. Others include interactive modules, videos and articles from professional sex educators. These applications also allow users to schedule trained counselors for private in-person or video consultations.</p>
           <div className='flex items-center justify-around py-4'>
           <a href="#" class="btnd py-2 px-4 text-white font-bold rounded">Preview</a>
@@ -155,8 +155,8 @@ function App() {
         </div>
       </div>
       <div class="card px-8 py-8">
-        <div class="card-body">
-          <h5 class="card-title text-center">Artes Marciales</h5>
+        <div class="card-body text-white">
+          <h5 class="card-title text-center font-bold">Artes Marciales</h5>
           <p class="card-text">Kerala is very famous for its various martial arts form and sports.The students come at a very young age for getting trained in various martial arts forms.In this  website the  martial arts enthusiasts can easily access their nearby martial arts centers in Kerala.This site provides information about different type of martial arts and user can learn more about martial arts. Institutes that provide martial arts can register in our website and in that way the students who are interested in martial arts can enroll and be a part of that respective institution.</p>
           <div className='flex items-center justify-around py-4'>
           <a href="#" class="btnd py-2 px-2  hover:bg-purple-600 text-white font-bold rounded">Preview</a>
