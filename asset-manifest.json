@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portfolio-React/static/css/main.7a04ab89.css",
+    "main.js": "/Portfolio-React/static/js/main.947140ef.js",
+    "static/js/787.aeca62f9.chunk.js": "/Portfolio-React/static/js/787.aeca62f9.chunk.js",
+    "static/media/photo.jpg": "/Portfolio-React/static/media/photo.560c3cbdc3029531f503.jpg",
+    "static/media/python.png": "/Portfolio-React/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/mysql.png": "/Portfolio-React/static/media/mysql.bdbd1eb709e4c13258d2.png",
+    "static/media/nodejs.png": "/Portfolio-React/static/media/nodejs.007e99f68b718e476aba.png",
+    "static/media/database.png": "/Portfolio-React/static/media/database.90cee7aeae6c51f975b2.png",
+    "static/media/science.png": "/Portfolio-React/static/media/science.3bf6fb4b18b1f904676d.png",
+    "static/media/c-sharp.png": "/Portfolio-React/static/media/c-sharp.4a32f53d425c7ad4cb05.png",
+    "static/media/c-.png": "/Portfolio-React/static/media/c-.24a8f93854ab092f17a7.png",
+    "static/media/web.png": "/Portfolio-React/static/media/web.d20706bc82e121522811.png",
+    "static/media/bootstrap-5-logo-icon.png": "/Portfolio-React/static/media/bootstrap-5-logo-icon.ff4ba441ec3324145fde.png",
+    "static/media/css-3.png": "/Portfolio-React/static/media/css-3.463e319bad8e0edf1ef7.png",
+    "static/media/js.png": "/Portfolio-React/static/media/js.3dfb665e058d08c99f28.png",
+    "index.html": "/Portfolio-React/index.html",
+    "main.7a04ab89.css.map": "/Portfolio-React/static/css/main.7a04ab89.css.map",
+    "main.947140ef.js.map": "/Portfolio-React/static/js/main.947140ef.js.map",
+    "787.aeca62f9.chunk.js.map": "/Portfolio-React/static/js/787.aeca62f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a04ab89.css",
+    "static/js/main.947140ef.js"
+  ]
+}
